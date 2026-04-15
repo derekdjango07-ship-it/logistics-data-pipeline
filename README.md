@@ -5,7 +5,7 @@
 _Architecture & logistics professional turned developer —_  
 _building tools at the intersection of infrastructure, GIS, and data._
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Derek%20Ike-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/derekike)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Derek%20Ike-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com//ike-chukwuemeka-39086263/)  
 [mailto:derek\_ike@outlook.com](mailto:derek_ike@outlook.com)  
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D-Toronto%2C%20ON%20Canada-1f2937?style=flat-square)](#)  
 [![Status](https://img.shields.io/badge/Open%20to-IT%20Roles%20%26%20Collaboration-10B981?style=flat-square)](#)
