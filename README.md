@@ -54,7 +54,7 @@ that solve real infrastructure problems.
 
 ### Spatial & Design
 
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)  
+![ARCGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)  
 ![GeoJSON](https://img.shields.io/badge/GeoJSON-FF6B35?style=for-the-badge&logo=mapbox&logoColor=white)  
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 
